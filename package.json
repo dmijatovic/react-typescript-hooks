@@ -1,7 +1,7 @@
 {
-  "name": "react-typescript-cra-usecontext-hook-functions",
+  "name": "react-typescript-cra-usecontext-hook",
   "version": "1.0.0",
-  "description": "Testing useContext hook when passing reducer function and state to work with",
+  "description": "Testing how to intergrate useContext and useState hooks",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
