@@ -1,0 +1,26 @@
+/*
+  AppFooter module (scoped) background set to red. 
+  Note that background color is set to green
+  in styles.css! Because we use .module.css 
+  the styles are scoped to a component where
+  the module is imported (AppFooter).
+*/
+.AppFooter {
+  padding: 2rem 1rem;
+  margin-top: 1rem;
+  background-color: rgb(32, 23, 5);
+  color: rgb(245, 140, 20);
+  text-align: center;
+}
+
+h2,
+h3 {
+  font-size: 1.5rem;
+}
+
+.AppFooterExplain {
+  text-align: left;
+  border-top: 1px solid lightgrey;
+  padding-top: 1rem;
+  line-height: 1.75rem;
+}
