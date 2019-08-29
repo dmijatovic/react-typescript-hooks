@@ -2,7 +2,13 @@
   "name": "react-typescript-cra-usecontext-hook",
   "version": "1.0.0",
   "description": "Testing how to intergrate useContext and useState hooks",
-  "keywords": [],
+  "keywords": [
+    "usecontext",
+    "hook",
+    "hooks",
+    "typescript",
+    "usestate"
+  ],
   "main": "src/index.tsx",
   "dependencies": {
     "react": "16.9.0",
