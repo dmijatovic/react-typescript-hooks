@@ -10,4 +10,4 @@ The context object (AppStateContext) resembles useState hook "pattern". It has s
 
 - see AppTitle.tsx for extracting the context count value using useContext hook.
 
-- see Counter.tsx for manipulating shared context value using useContext hook.
+- see Counter.tsx for manipulating shared context value using useContext hook
